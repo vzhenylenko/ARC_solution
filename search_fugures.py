@@ -1,3 +1,4 @@
+# search and store masks of existing figures
 import queue
 
 def get_neighbours(m, n, x):
