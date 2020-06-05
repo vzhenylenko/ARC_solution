@@ -19,5 +19,5 @@ It's a challenge, proposed by Francois Chollet in this paper. The goal of this c
 #### Examples:
 - There is one task on the image below.
 - On the left panel in each row you could see 2 inputs and 1 output (3 rows in total). This is train data.
-- On the right panel, there is the test input, for which you should provide output (submit array with pixel colors).
+- On the right panel, there is the test input, for which you should provide output (submit array with pixel colors). This is test data.
 ![examples_image](https://camo.githubusercontent.com/e09efad05e838b24ac2b98bcd75c1e67be811262/68747470733a2f2f6172632d62656e63686d61726b2e73332e616d617a6f6e6177732e636f6d2f666967732f6172635f746573745f73706163652e706e67)
